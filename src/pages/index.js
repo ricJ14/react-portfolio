@@ -10,10 +10,10 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
+      <main className="px-10 ">
         <section className= " min-h-screen">
           <nav className="py-10 mb-12 flex justify-between">
-          <h1 className="text-6xl text-white font-bold">Hello</h1>
+          <h1 className="text-xl text-white font-bold">Hello</h1>
             <ul>
               <li>
                 <BsFillMoonStarsFill/>
