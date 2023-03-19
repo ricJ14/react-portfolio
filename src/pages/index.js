@@ -2,7 +2,7 @@ import Head from 'next/head';
 import {BsFillMoonStarsFill} from 'react-icons/bs';
 import {AiFillGithub, AiFillLinkedin} from 'react-icons/ai';
 import Image from 'next/image';
-import deved from 'public/dev-ed-wave.png'; 
+import deved from 'public/avatar.png'; 
 
 
 export default function Home() {
